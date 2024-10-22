@@ -1,0 +1,14 @@
+.footer-container {
+    height: 40px;
+    width: 100%;
+    background-color: rgb(190, 187, 187) ;
+}
+
+.footer-text {
+    text-align: center;
+    color: white;
+    padding-top: 8px;
+    font-size: 15px;
+    font-weight: bold;
+
+}

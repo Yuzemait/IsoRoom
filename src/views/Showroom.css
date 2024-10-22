@@ -1,0 +1,59 @@
+.showroom {
+    display: flex;
+    justify-content: left;
+    width: 100%;
+}
+
+.showroom-tab {
+    width: 25%;
+    background-color: white;
+    border: 15px solid #92b7d3;
+    padding: 20px;
+}
+
+
+.tab-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    height: 5%;
+}
+
+.tab-image {
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.tab-image img {
+    width: 70%;
+    margin: auto;
+    padding: auto;
+    object-fit: cover;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.tab-description {
+    margin-top: 20px;
+    font-size: 18px;
+}
+.tab-category {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.tab-price {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    color: red;
+}
+
+.showroom-render {
+    width: 65%;
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+}

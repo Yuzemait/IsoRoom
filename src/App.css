@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.wallpaper-container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.wallpaper-container img {
+    object-fit: cover;
+    width: 100%;
+    height: 350px;
+    object-position: 39% 61%;
+
+}
+
+.featured-container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.featured-items {
+    margin-top: 30px;
+    width: 100%;
+}
+
+.featured-items ul {
+    display:  flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.featured-items ul li {
+    list-style-type: none;
+    margin: 20px;
+}

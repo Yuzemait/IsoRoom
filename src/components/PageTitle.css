@@ -1,0 +1,16 @@
+.title {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 40%;
+    
+}
+
+.title p {
+    color: black;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 3px;
+    margin: 30px;
+    padding: 25px 60px 25px 60px;
+} 
